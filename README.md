@@ -1,5 +1,5 @@
 # Image Recogniton 
-This project is part of my university projects for deep learning
+This project was part of my university projects a deep learning unit
 
 ## Model used:
 * DNN
